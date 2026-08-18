@@ -1,0 +1,11 @@
+# Windows / VS Code cruft
+desktop.ini
+Thumbs.db
+.vscode/
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+a.exe
